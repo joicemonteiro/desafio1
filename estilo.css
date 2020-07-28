@@ -1,0 +1,33 @@
+body{
+    background-color: rgba(255, 255, 255, 0.541);
+    color: grey;
+    border: solid grey 19px;
+    margin: 50px;
+}
+div{
+    border: solid black 2px;
+}
+h1{
+    font-size: 80px;
+    font-family: fantasy;
+    text-align: center;
+    color: rgb(3, 3, 3);
+    padding: 20px;
+    border: solid rgb(38, 173, 11)20px;
+    margin: rgb(38, 173, 11) 20px;
+    background: rgb(143, 240, 114);
+}
+p{
+    font-family:sans-serif;
+    padding: 15px;
+}
+#amarelo{
+    background-color:white;
+}
+.amor{
+    background-color: grey;
+}
+img{
+width: 500px;
+height: 300px;
+}
